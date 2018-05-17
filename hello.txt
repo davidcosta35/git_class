@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 asdfhello world
+=======
+rrrrhello world
+>>>>>>> Stashed changes
 Bye bye
 bbbbbbb
 aaaaaaa
